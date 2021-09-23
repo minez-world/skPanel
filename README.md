@@ -1,4 +1,6 @@
 # SKPanel
+*panel bedzie juz niedlugo dostepny*
+
 Panel internetowy dla serwerów Minecraft napisany w PHP, uzywany przez siec serwerow MineZ.world 
 
 SKPanel może zarządzać nieograniczoną liczbą serwerów Minecraft, w tym CraftBukkit, Tekkit i każdą inną niestandardowym silnikiem który używa pliku .jar.
