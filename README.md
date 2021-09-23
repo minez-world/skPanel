@@ -1,9 +1,9 @@
-# 2Panel
+# skPanel
 *panel bedzie juz niedlugo dostepny*
 
 Panel internetowy dla serwerów Minecraft napisany w PHP, uzywany przez siec serwerow MineZ.world 
 
-2Panel może zarządzać nieograniczoną liczbą serwerów Minecraft, w tym CraftBukkit, Tekkit i każdą inną niestandardowym silnikiem który używa pliku .jar.
+skPanel może zarządzać nieograniczoną liczbą serwerów Minecraft, w tym CraftBukkit, Tekkit i każdą inną niestandardowym silnikiem który używa pliku .jar.
 
 
 ## Wymagania
@@ -27,7 +27,7 @@ Upewnij się, że użytkownik serwera WWW ma dostęp do zapisu do głównego MCH
 ## Konfiguracja użytkownika
 ```Zaloguj się jako administrator
 Przejdź do Panelu Administratora
-Użyj formularza „Dodaj nowego użytkownika”, aby założyć nowe konto, katalog home/domowy **NIE POWINIEN** być dostępny przez  internet, ponieważ pliki 2Panel'u są tam zapisywane
+Użyj formularza „Dodaj nowego użytkownika”, aby założyć nowe konto, katalog home/domowy **NIE POWINIEN** być dostępny przez  internet, ponieważ pliki skPanel'u są tam zapisywane
 Dodaj dowolny plik .jar serwera Minecraft do katalogu użytkownika
 Upewnij się, że użytkownik serwera WWW ma dostęp do zapisu w katalogu
 W razie potrzeby możesz teraz uruchomić serwer użytkownika ze strony Administracja```
